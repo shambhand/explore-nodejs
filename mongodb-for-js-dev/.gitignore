@@ -73,3 +73,5 @@ test-results/
 
 # Vs Code data
 .vscode
+
+sampledata.archive.gz
